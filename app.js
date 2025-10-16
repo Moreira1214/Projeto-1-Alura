@@ -67,4 +67,5 @@ function reiniciarJogo() {
 }
 
 // lista.push('elemento') adiciona
+
 // lista.pop() remove o ultimo elemento na lista
